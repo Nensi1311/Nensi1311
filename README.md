@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nensi Pansuriya</h1>
 <h3 align="center">A passionate Artificial Intelligence and Machine Learning Engineer</h3>
 
-<img align="right" alt="AI-ML" width="400" src="![image](https://github.com/user-attachments/assets/d85875e6-f5b9-47a6-97f6-aaacf0b9b719)">
+<img align="right" alt="AI-ML" width="400" src="https://github.com/user-attachments/assets/d85875e6-f5b9-47a6-97f6-aaacf0b9b719">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nensi1311&label=Profile%20views&color=0e75b6&style=flat" alt="nensi1311" /> </p>
 
