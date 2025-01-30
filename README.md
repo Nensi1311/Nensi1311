@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nensi Pansuriya</h1>
 <h3 align="center">A passionate Artificial Intelligence and Machine Learning Engineer</h3>
 
-<img align="right" alt="AI-ML" src="![image](https://github.com/user-attachments/assets/f3c44d4d-bd56-4a10-96b7-0028bf89d57f)">
+<img align="right" alt="AI-ML" src="!https://media2.giphy.com/media/0lGd2OXXHe4tFhb7Wh/200w.gif?cid=6c09b952ph9i4gbozm9vzqu5i6x8psyv1cyamgp5mywsjil2&ep=v1_gifs_search&rid=200w.gif&ct=g">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nensi1311" alt="nensi1311" /></a> </p>
 
