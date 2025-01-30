@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nensi Pansuriya</h1>
 <h3 align="center">A passionate Artificial Intelligence and Machine Learning Engineer</h3>
 
-<img align="right" alt="AI-ML" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fgigabyte-official-ai-machine-learning-gigabyte-iPj5oRtJzQGxwzuCKV&psig=AOvVaw2v7xeevAD1Z-RmKJbbmfm-&ust=1738312712235000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNinwNGFnYsDFQAAAAAdAAAAABAK"
+<img align="right" alt="AI-ML" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fgigabyte-official-ai-machine-learning-gigabyte-iPj5oRtJzQGxwzuCKV&psig=AOvVaw2v7xeevAD1Z-RmKJbbmfm-&ust=1738312712235000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNinwNGFnYsDFQAAAAAdAAAAABAK](https://www.google.com/imgres?imgurl=https://media3.giphy.com/media/iPj5oRtJzQGxwzuCKV/giphy.gif?cid%3D6c09b952wrs3bcmq409hqocfhcfooi12c8yf6ri7i19yjsrx%26ep%3Dv1_internal_gif_by_id%26rid%3Dgiphy.gif%26ct%3Dg&tbnid=W6vWVmq82fQ_tM&vet=1&imgrefurl=https://giphy.com/gifs/gigabyte-official-ai-machine-learning-gigabyte-iPj5oRtJzQGxwzuCKV&docid=Z82vMdX050f7TM&w=480&h=270&source=sh/x/im/m1/1&kgs=95445d2635893076)"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nensi1311&label=Profile%20views&color=0e75b6&style=flat" alt="nensi1311" /> </p>
 
