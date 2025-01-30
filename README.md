@@ -3,6 +3,7 @@
 
 <img align="right" alt="AI-ML" width="300" src="https://github.com/user-attachments/assets/484be27d-9e84-4543-b1f5-c44ba9dc7883">
 
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nensi1311" alt="nensi1311" /></a> </p>
 
 - 🌱 I’m currently learning **AI-ML**
