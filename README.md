@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nensi Pansuriya</h1>
 <h3 align="center">A passionate Artificial Intelligence and Machine Learning Engineer</h3>
 
-<img align="right" alt="AI-ML" width="400" src="[https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif](https://giphy.com/gifs/gigabyte-official-ai-machine-learning-gigabyte-iPj5oRtJzQGxwzuCKV)">
+<img align="right" alt="AI-ML" width="400" src="[[https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif](https://giphy.com/gifs/gigabyte-official-ai-machine-learning-gigabyte-iPj5oRtJzQGxwzuCKV)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fartificial-intelligence-ai&psig=AOvVaw2n8Ur99qfVHYaCgF_TKiii&ust=1738313343653000&source=images&cd=vfe&opi=89978449&ved=0CBQQjhxqFwoTCMDsxYiInYsDFQAAAAAdAAAAABAE)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nensi1311&label=Profile%20views&color=0e75b6&style=flat" alt="nensi1311" /> </p>
 
