@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nensi Pansuriya</h1>
 <h3 align="center">A passionate Artificial Intelligence and Machine Learning Engineer</h3>
 
+<img align="right" alt="AI-ML" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fgigabyte-official-ai-machine-learning-gigabyte-iPj5oRtJzQGxwzuCKV&psig=AOvVaw2v7xeevAD1Z-RmKJbbmfm-&ust=1738312712235000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNinwNGFnYsDFQAAAAAdAAAAABAK"
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nensi1311&label=Profile%20views&color=0e75b6&style=flat" alt="nensi1311" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nensi1311" alt="nensi1311" /></a> </p>
